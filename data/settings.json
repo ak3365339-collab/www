@@ -1,0 +1,12 @@
+{
+  "siteName": "CineFlix Movies",
+  "siteDescription": "Download 4K, 1080p, 720p, 480p HD Movies in Dual Audio (Hindi, English, Tamil, Telugu, Korean, Japanese)",
+  "siteTags": "4k movies download, 1080p hdrip, bollywood movies, hollywood hindi dubbed, south movies hindi dubbed, korean movies, fast direct download",
+  "announcement": "⚡ Welcome to CineFlix Portal! Direct High-Speed Download Links (4K, 1080p, 720p, 480p) Available. Join our official Telegram channel for daily updates!",
+  "telegramLink": "https://t.me/cineflix_movies_official",
+  "mysqlHost": "localhost",
+  "mysqlPort": 3306,
+  "mysqlUser": "root",
+  "mysqlPassword": "",
+  "mysqlDatabase": "cineflix_db"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Movie Download Portal",
+  "description": "Professional responsive movie downloading portal with 4K, 1080p, 720p, 480p qualities, AI movie scraper, IMDb details, multi-language support, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

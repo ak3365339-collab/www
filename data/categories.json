@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cat-1",
+    "name": "Latest Movies",
+    "slug": "latest-movies",
+    "description": "Newly released blockbusters and trending hits"
+  },
+  {
+    "id": "cat-2",
+    "name": "Bollywood Movies",
+    "slug": "bollywood-movies",
+    "description": "Top Hindi cinema movies and premieres"
+  },
+  {
+    "id": "cat-3",
+    "name": "Hollywood Movies",
+    "slug": "hollywood-movies",
+    "description": "English and international blockbusters"
+  },
+  {
+    "id": "cat-4",
+    "name": "South Movies",
+    "slug": "south-movies",
+    "description": "Tamil, Telugu, Malayalam, and Kannada cinema"
+  },
+  {
+    "id": "cat-5",
+    "name": "Hindi Dubbed Movies",
+    "slug": "hindi-dubbed-movies",
+    "description": "Hollywood & South films dubbed in Hindi Dual Audio"
+  },
+  {
+    "id": "cat-6",
+    "name": "Korean Movies",
+    "slug": "korean-movies",
+    "description": "K-Drama, thriller, and action cinema from Korea"
+  }
+]
